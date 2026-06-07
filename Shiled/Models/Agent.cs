@@ -12,7 +12,7 @@ namespace Shiled
         public string FullName { get; set; }
         public int? ID_Filial { get; set; }
         public string Phone { get; set; }
-        public DateTime? BornDate { get; set; }
+        //public DateTime BornDate { get; set; }
         public string Passport { get; set; }
         public bool IsActive { get; set; }
         public string Login { get; set; }

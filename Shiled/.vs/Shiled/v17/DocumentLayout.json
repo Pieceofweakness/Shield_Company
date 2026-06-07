@@ -11,40 +11,20 @@
       "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:data\\databaseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\forms\\agentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:forms\\agentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\aplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\aplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\forms\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:forms\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\forms\\agentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:forms\\agentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\filial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\filial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|d:\\\u0432\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\shield_company\\shiled\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533143F2-B372-45D8-A40D-6C2FE59CB3CC}|Shiled.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,19 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseAdapter.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Data\\DatabaseAdapter.cs",
-              "RelativeDocumentMoniker": "Data\\DatabaseAdapter.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Data\\DatabaseAdapter.cs",
-              "RelativeToolTip": "Data\\DatabaseAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0CAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T19:14:55.001Z",
+              "WhenOpened": "2026-06-07T19:58:16.024Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminMainForm.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AdminMainForm.cs",
+              "RelativeToolTip": "Forms\\AdminMainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:35:32.6Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -77,125 +72,47 @@
               "RelativeDocumentMoniker": "Data\\IDatabaseAdapter.cs",
               "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Data\\IDatabaseAdapter.cs",
               "RelativeToolTip": "Data\\IDatabaseAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T19:06:26.132Z",
+              "WhenOpened": "2026-06-07T20:41:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseAdapter.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Data\\DatabaseAdapter.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseAdapter.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Data\\DatabaseAdapter.cs",
+              "RelativeToolTip": "Data\\DatabaseAdapter.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAiwBoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:41:15.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Title": "AgentMainForm.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AgentMainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AgentMainForm.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AgentMainForm.cs",
+              "RelativeToolTip": "Forms\\AgentMainForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:42:20.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aplication.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Aplication.cs",
-              "RelativeDocumentMoniker": "Models\\Aplication.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Aplication.cs",
-              "RelativeToolTip": "Models\\Aplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:55:25.861Z",
+              "WhenOpened": "2026-06-07T20:35:25.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InsuranceType.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\InsuranceType.cs",
-              "RelativeDocumentMoniker": "Models\\InsuranceType.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\InsuranceType.cs",
-              "RelativeToolTip": "Models\\InsuranceType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Title": "AgentMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AgentMainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AgentMainForm.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Forms\\AgentMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\AgentMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:54:58.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Filial.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Filial.cs",
-              "RelativeDocumentMoniker": "Models\\Filial.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Filial.cs",
-              "RelativeToolTip": "Models\\Filial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:53:45.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contract.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Contract.cs",
-              "RelativeDocumentMoniker": "Models\\Contract.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Contract.cs",
-              "RelativeToolTip": "Models\\Contract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:55:08.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Client.cs",
-              "RelativeToolTip": "Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:54:39.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Agent.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Agent.cs",
-              "RelativeDocumentMoniker": "Models\\Agent.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Agent.cs",
-              "RelativeToolTip": "Models\\Agent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:54:30.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Administrator.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Administrator.cs",
-              "RelativeDocumentMoniker": "Models\\Administrator.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Models\\Administrator.cs",
-              "RelativeToolTip": "Models\\Administrator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:54:23.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shiled\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T18:41:33.568Z",
+              "WhenOpened": "2026-06-07T20:32:31.615Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
