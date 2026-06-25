@@ -66,6 +66,7 @@
             btnInsurances.TabIndex = 2;
             btnInsurances.Text = "Виды страхования";
             btnInsurances.UseVisualStyleBackColor = true;
+            btnInsurances.Click += btnInsurances_Click;
             // 
             // btnContracts
             // 
@@ -75,6 +76,7 @@
             btnContracts.TabIndex = 3;
             btnContracts.Text = "Просмотр договров";
             btnContracts.UseVisualStyleBackColor = true;
+            btnContracts.Click += btnContracts_Click;
             // 
             // btnExit
             // 

@@ -17,7 +17,7 @@ namespace Shiled.Forms
         public ControlFilialsForm()
         {
             InitializeComponent();
-            db = new DatabaseAdapter("localhost", "Shield_Company", "postgres", "1234");
+            db = new DatabaseAdapter();
             LoadFilials();
         }
 

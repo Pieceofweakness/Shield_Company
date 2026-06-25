@@ -16,7 +16,7 @@ namespace Shiled.Forms
         public LoginForm()
         {
             InitializeComponent();
-            db = new DatabaseAdapter("localhost", "Shield_Company", "postgres", "1234");
+            db = new DatabaseAdapter();
 
         }
        
@@ -37,7 +37,7 @@ namespace Shiled.Forms
                 }
                 else if (user.Role == "Agent")
                 {
-                    AgentMainForm agentForm = new AgentMainForm();
+                    AgentMainForm agentForm = new AgentMainForm(user.UserId);
                     agentForm.ShowDialog();
                 }
                 //else if (user.Role == "Client")

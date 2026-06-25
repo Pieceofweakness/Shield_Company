@@ -16,12 +16,15 @@ namespace Shiled.Forms
         public AdminMainForm()
         {
             InitializeComponent();
-            db = new DatabaseAdapter("localhost", "Shield_Company", "postgres", "1234");
+            db = new DatabaseAdapter();
         }
 
         private void btnAgents_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            ControlAgentsForm controlAgentsForm = new ControlAgentsForm();
+            controlAgentsForm.ShowDialog();
+            this.Close();
         }
 
         private void btnFilials_Click(object sender, EventArgs e)
@@ -30,6 +33,23 @@ namespace Shiled.Forms
             ControlFilialsForm controlFilialsForm = new ControlFilialsForm();
             controlFilialsForm.ShowDialog();
             this.Close();
+        }
+
+        private void btnInsurances_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ControlInsurancesTypes controlInsurancesTypes = new ControlInsurancesTypes();
+            controlInsurancesTypes.ShowDialog();
+            this.Close();
+        }
+
+        private void btnContracts_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ShowAllContracts showAllContracts = new ShowAllContracts();
+            showAllContracts.ShowDialog();
+            this.Close();
+
         }
     }
 }

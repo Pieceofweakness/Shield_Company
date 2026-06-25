@@ -10,13 +10,25 @@
     <Compile Update="Forms\AgentMainForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\ControlAgentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\ControlFilialsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ControlInsurancesTypes.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\EditFilialForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowAllContracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowContractsByAgent.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

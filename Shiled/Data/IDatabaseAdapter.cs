@@ -25,7 +25,7 @@ namespace Shiled
         bool AddFilial(Filial filial);
         bool UpdateFilial(Filial filial);
         // ---------- Управление агентами ----------
-        List<Agent> GetAllAgents(bool includeInactive = false);
+        List<Agent> GetAllAgents();
         List<Agent> GetAgentsByFilial(int filialId, bool includeInactive = false);
         Agent GetAgentById(int id);
         bool AddAgent(Agent agent);
@@ -45,7 +45,7 @@ namespace Shiled
 
         // ---------- Управление договорами ----------
         List<Contract> GetAllContracts();
-        List<Contract> GetContractsByAgent(int agentId, DateTime? dateFrom = null, DateTime? dateTo = null);
+        List<Contract> GetContractsByAgent(int agentId);
         List<Contract> GetContractsByClient(int clientId);
         List<Contract> GetContractsByFilial(int filialId, DateTime? dateFrom = null, DateTime? dateTo = null);
         Contract GetContractById(int id);

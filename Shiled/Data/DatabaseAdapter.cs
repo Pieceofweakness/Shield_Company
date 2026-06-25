@@ -6,17 +6,19 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Shiled
 {
     public class DatabaseAdapter: IDatabaseAdapter
     {
-        private readonly string connectionString;
+        private readonly string connectionString = $"Host=localhost;Port=5432;Database=Shield_Company;Username=postgres;Password=1234";
 
-        public DatabaseAdapter(string host, string database, string username, string password, int port = 5432)
+        public DatabaseAdapter()
         {
-            connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password}";
         }
+
+
 
         private IDbConnection GetConnection()
         {
@@ -174,7 +176,7 @@ namespace Shiled
         }
         // ---------------------- Агенты ----------------------
 
-        public List<Agent> GetAllAgents(bool includeInactive = false)
+        public List<Agent> GetAllAgents()
         {
             using (var conn = GetConnection())
             {
@@ -184,8 +186,7 @@ namespace Shiled
                     FROM Agents a
                     LEFT JOIN Filials f ON a.ID_Filial = f.ID_Filial";
 
-                if (!includeInactive)
-                    sql += " WHERE a.IsActive = TRUE";
+                
 
                 sql += " ORDER BY a.ID_Agent";
 
@@ -375,45 +376,64 @@ namespace Shiled
             {
                 conn.Open();
                 string sql = @"
-                    SELECT c.*, 
-                           cl.FullName as ClientName,
-                           i.InsuranceName,
-                           a.FullName as AgentName,
-                           f.NameFilial as FilialName
-                    FROM Contracts c
-                    LEFT JOIN Clients cl ON c.ID_Client = cl.ID_Client
-                    LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
-                    LEFT JOIN Agents a ON c.ID_Agent = a.ID_Agent
-                    LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
-                    ORDER BY c.ID_Contract DESC";
+            SELECT 
+                c.ID_Contract,
+                c.ID_Client,
+                c.ID_Insurance,
+                c.ID_Filial,
+                c.ID_Agent,
+                c.InsuranceSum,
+                c.Tariff,
+                c.InsurancePayment,
+                c.DateStart::text as DateStart,      
+                c.DateFinal::text as DateFinal,      
+                c.Discription,
+                c.IsActive,
+                cl.FullName as ClientName,
+                i.InsuranceName,
+                a.FullName as AgentName,
+                f.NameFilial as FilialName
+            FROM Contracts c
+            LEFT JOIN Clients cl ON c.ID_Client = cl.ID_Client
+            LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
+            LEFT JOIN Agents a ON c.ID_Agent = a.ID_Agent
+            LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
+            ORDER BY c.ID_Contract DESC";
                 return conn.Query<Contract>(sql).ToList();
             }
         }
 
-        public List<Contract> GetContractsByAgent(int agentId, DateTime? dateFrom = null, DateTime? dateTo = null)
+        public List<Contract> GetContractsByAgent(int agentId)
         {
             using (var conn = GetConnection())
             {
                 conn.Open();
                 string sql = @"
-                    SELECT c.*, 
-                           cl.FullName as ClientName,
-                           i.InsuranceName,
-                           f.NameFilial as FilialName
-                    FROM Contracts c
-                    LEFT JOIN Clients cl ON c.ID_Client = cl.ID_Client
-                    LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
-                    LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
-                    WHERE c.ID_Agent = @agentId";
-
-                if (dateFrom.HasValue)
-                    sql += " AND c.DateStart >= @dateFrom";
-                if (dateTo.HasValue)
-                    sql += " AND c.DateStart <= @dateTo";
+            SELECT 
+                c.ID_Contract,
+                c.ID_Client,
+                c.ID_Insurance,
+                c.ID_Filial,
+                c.ID_Agent,
+                c.InsuranceSum,
+                c.Tariff,
+                c.InsurancePayment,
+                c.DateStart::text as DateStart,      
+                c.DateFinal::text as DateFinal,      
+                c.Discription,
+                c.IsActive,
+                cl.FullName as ClientName,
+                i.InsuranceName,
+                f.NameFilial as FilialName
+                FROM Contracts c
+                LEFT JOIN Clients cl ON c.ID_Client = cl.ID_Client
+                LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
+                LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
+                WHERE c.ID_Agent = @agentId";
 
                 sql += " ORDER BY c.ID_Contract DESC";
 
-                return conn.Query<Contract>(sql, new { agentId, dateFrom, dateTo }).ToList();
+                return conn.Query<Contract>(sql, new {agentId}).ToList();
             }
         }
 

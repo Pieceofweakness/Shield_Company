@@ -49,7 +49,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(333, 22);
+            label2.Location = new Point(136, 24);
             label2.Name = "label2";
             label2.Size = new Size(110, 20);
             label2.TabIndex = 1;
@@ -58,7 +58,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(363, 60);
+            label3.Location = new Point(168, 61);
             label3.Name = "label3";
             label3.Size = new Size(48, 20);
             label3.TabIndex = 2;
@@ -66,9 +66,9 @@
             // 
             // btnNewContract
             // 
-            btnNewContract.Location = new Point(44, 169);
+            btnNewContract.Location = new Point(12, 172);
             btnNewContract.Name = "btnNewContract";
-            btnNewContract.Size = new Size(161, 29);
+            btnNewContract.Size = new Size(262, 29);
             btnNewContract.TabIndex = 3;
             btnNewContract.Text = "Новый договор";
             btnNewContract.UseVisualStyleBackColor = true;
@@ -76,36 +76,39 @@
             // 
             // btnShowMyContracts
             // 
-            btnShowMyContracts.Location = new Point(46, 220);
+            btnShowMyContracts.Location = new Point(12, 207);
             btnShowMyContracts.Name = "btnShowMyContracts";
-            btnShowMyContracts.Size = new Size(159, 29);
+            btnShowMyContracts.Size = new Size(260, 29);
             btnShowMyContracts.TabIndex = 4;
             btnShowMyContracts.Text = "Мои договоры";
             btnShowMyContracts.UseVisualStyleBackColor = true;
+            btnShowMyContracts.Click += btnShowMyContracts_Click;
             // 
             // btnShowApplications
             // 
-            btnShowApplications.Location = new Point(46, 279);
+            btnShowApplications.Location = new Point(14, 242);
             btnShowApplications.Name = "btnShowApplications";
-            btnShowApplications.Size = new Size(94, 29);
+            btnShowApplications.Size = new Size(260, 29);
             btnShowApplications.TabIndex = 5;
             btnShowApplications.Text = "Заявки";
             btnShowApplications.UseVisualStyleBackColor = true;
+            btnShowApplications.Click += btnShowApplications_Click;
             // 
             // btnExit
             // 
-            btnExit.Location = new Point(52, 329);
+            btnExit.Location = new Point(14, 277);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(94, 29);
+            btnExit.Size = new Size(260, 29);
             btnExit.TabIndex = 6;
             btnExit.Text = "Выход";
             btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
             // 
             // AgentMainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(294, 314);
             Controls.Add(btnExit);
             Controls.Add(btnShowApplications);
             Controls.Add(btnShowMyContracts);

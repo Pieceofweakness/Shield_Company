@@ -16,8 +16,8 @@ namespace Shiled
         public decimal InsuranceSum { get; set; }
         public decimal Tariff { get; set; }
         public decimal InsurancePayment { get; set; }
-        public DateTime? DateStart { get; set; }
-        public DateTime? DateFinal { get; set; }
+        public string DateStart { get; set; }
+        public string DateFinal { get; set; }
         public string Discription { get; set; }
         public bool IsActive { get; set; }
 

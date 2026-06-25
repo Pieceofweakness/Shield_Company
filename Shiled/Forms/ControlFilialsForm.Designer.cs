@@ -49,7 +49,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(291, 14);
+            label2.Location = new Point(260, 14);
             label2.Name = "label2";
             label2.Size = new Size(73, 20);
             label2.TabIndex = 1;
@@ -58,7 +58,7 @@
             // dgvFilials
             // 
             dgvFilials.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvFilials.Location = new Point(21, 60);
+            dgvFilials.Location = new Point(1, 47);
             dgvFilials.Name = "dgvFilials";
             dgvFilials.RowHeadersWidth = 51;
             dgvFilials.Size = new Size(607, 188);
@@ -66,18 +66,18 @@
             // 
             // btnAddFilial
             // 
-            btnAddFilial.Location = new Point(21, 277);
+            btnAddFilial.Location = new Point(37, 255);
             btnAddFilial.Name = "btnAddFilial";
-            btnAddFilial.Size = new Size(94, 29);
+            btnAddFilial.Size = new Size(112, 39);
             btnAddFilial.TabIndex = 3;
             btnAddFilial.Text = "Добавить";
             btnAddFilial.UseVisualStyleBackColor = true;
             // 
             // btnEditFilial
             // 
-            btnEditFilial.Location = new Point(222, 277);
+            btnEditFilial.Location = new Point(203, 255);
             btnEditFilial.Name = "btnEditFilial";
-            btnEditFilial.Size = new Size(166, 29);
+            btnEditFilial.Size = new Size(177, 39);
             btnEditFilial.TabIndex = 4;
             btnEditFilial.Text = "Редактировать";
             btnEditFilial.UseVisualStyleBackColor = true;
@@ -85,9 +85,9 @@
             // 
             // btnExit
             // 
-            btnExit.Location = new Point(474, 277);
+            btnExit.Location = new Point(413, 255);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(154, 29);
+            btnExit.Size = new Size(165, 39);
             btnExit.TabIndex = 5;
             btnExit.Text = "Закрыть";
             btnExit.UseVisualStyleBackColor = true;
@@ -97,7 +97,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(652, 334);
+            ClientSize = new Size(609, 334);
             Controls.Add(btnExit);
             Controls.Add(btnEditFilial);
             Controls.Add(btnAddFilial);
