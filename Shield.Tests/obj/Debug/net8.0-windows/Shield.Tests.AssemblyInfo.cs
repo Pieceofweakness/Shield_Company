@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shield.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fa4b89151bb598d4dd1dfd51d9aa1b2f06b604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69af7c1df71224155a6bbe1d0dcfd4a3adc6c46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shield.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shield.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

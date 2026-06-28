@@ -48,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -61,8 +61,7 @@
               "ViewState": "AgIAAB0AAAAAAAAAAAAhwCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T19:58:16.024Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAArwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T20:35:32.6Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAawDMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T17:04:58.776Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T15:53:54.732Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -117,47 +113,7 @@
               "ViewState": "AgIAADIAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T18:00:02.051Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientTests.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ClientTests.cs",
-              "RelativeDocumentMoniker": "..\\Shield.Tests\\ClientTests.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ClientTests.cs*",
-              "RelativeToolTip": "..\\Shield.Tests\\ClientTests.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T17:59:30.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContractTests.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ContractTests.cs",
-              "RelativeDocumentMoniker": "..\\Shield.Tests\\ContractTests.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ContractTests.cs*",
-              "RelativeToolTip": "..\\Shield.Tests\\ContractTests.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T18:01:45.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FilialTests.cs",
-              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\FilialTests.cs",
-              "RelativeDocumentMoniker": "..\\Shield.Tests\\FilialTests.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\FilialTests.cs*",
-              "RelativeToolTip": "..\\Shield.Tests\\FilialTests.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T17:54:24.517Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -167,10 +123,46 @@
               "RelativeDocumentMoniker": "..\\Shield.Tests\\InsuranceTypeTests.cs",
               "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\InsuranceTypeTests.cs",
               "RelativeToolTip": "..\\Shield.Tests\\InsuranceTypeTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T18:01:04.572Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientTests.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ClientTests.cs",
+              "RelativeDocumentMoniker": "..\\Shield.Tests\\ClientTests.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ClientTests.cs",
+              "RelativeToolTip": "..\\Shield.Tests\\ClientTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:59:30.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractTests.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ContractTests.cs",
+              "RelativeDocumentMoniker": "..\\Shield.Tests\\ContractTests.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ContractTests.cs",
+              "RelativeToolTip": "..\\Shield.Tests\\ContractTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T18:01:45.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilialTests.cs",
+              "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\FilialTests.cs",
+              "RelativeDocumentMoniker": "..\\Shield.Tests\\FilialTests.cs",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\FilialTests.cs",
+              "RelativeToolTip": "..\\Shield.Tests\\FilialTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:54:24.517Z"
             },
             {
               "$type": "Document",
@@ -178,12 +170,11 @@
               "Title": "ApplicationTests.cs",
               "DocumentMoniker": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ApplicationTests.cs",
               "RelativeDocumentMoniker": "..\\Shield.Tests\\ApplicationTests.cs",
-              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ApplicationTests.cs*",
-              "RelativeToolTip": "..\\Shield.Tests\\ApplicationTests.cs*",
+              "ToolTip": "D:\\\u0412\u0443\u0437\\2 \u043A\u0443\u0440\u0441\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444 \u0441\u0438\u0441\u0442\u0435\u043C\\Shield_Company\\Shield.Tests\\ApplicationTests.cs",
+              "RelativeToolTip": "..\\Shield.Tests\\ApplicationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T18:03:35.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T18:03:35.366Z"
             },
             {
               "$type": "Document",
@@ -195,8 +186,7 @@
               "RelativeToolTip": "..\\Shield.Tests\\AgentTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T17:56:06.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T17:56:06.326Z"
             }
           ]
         }
