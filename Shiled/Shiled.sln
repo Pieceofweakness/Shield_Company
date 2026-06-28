@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shiled", "Shiled.csproj", "{533143F2-B372-45D8-A40D-6C2FE59CB3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shield.Tests", "..\Shield.Tests\Shield.Tests.csproj", "{E31C7855-FEB7-4986-8EE9-A214928094F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{533143F2-B372-45D8-A40D-6C2FE59CB3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533143F2-B372-45D8-A40D-6C2FE59CB3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533143F2-B372-45D8-A40D-6C2FE59CB3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31C7855-FEB7-4986-8EE9-A214928094F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31C7855-FEB7-4986-8EE9-A214928094F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31C7855-FEB7-4986-8EE9-A214928094F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31C7855-FEB7-4986-8EE9-A214928094F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
