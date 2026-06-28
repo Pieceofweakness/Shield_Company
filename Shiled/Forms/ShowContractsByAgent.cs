@@ -15,16 +15,17 @@ namespace Shiled.Forms
         private DatabaseAdapter db;
         private Contract selectedContract;
         public int AgentID;
+        public int? FilialID;
 
-        public ShowContractsByAgent(int agentid)
+        public ShowContractsByAgent(int agentid, int? filialID)
         {
             InitializeComponent();
             db = new DatabaseAdapter();
-            
+
             AgentID = agentid;
 
             LoadContracts();
-
+            FilialID = filialID;
         }
 
 
@@ -65,7 +66,7 @@ namespace Shiled.Forms
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Hide();
-            AgentMainForm agentMainForm = new AgentMainForm(AgentID);
+            AgentMainForm agentMainForm = new AgentMainForm(AgentID,FilialID);
             agentMainForm.ShowDialog();
             this.Close();
         }

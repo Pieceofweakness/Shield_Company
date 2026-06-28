@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Drawing;
 using System.Linq;
@@ -19,7 +20,7 @@ namespace Shiled.Forms
             db = new DatabaseAdapter();
 
         }
-       
+
         public void button1_Click(object sender, EventArgs e)
         {
             string login = txtLogin.Text.ToString();
@@ -37,19 +38,24 @@ namespace Shiled.Forms
                 }
                 else if (user.Role == "Agent")
                 {
-                    AgentMainForm agentForm = new AgentMainForm(user.UserId);
+                    AgentMainForm agentForm = new AgentMainForm(user.UserId, user.FilialId);
                     agentForm.ShowDialog();
                 }
-                //else if (user.Role == "Client")
-                //{
-                //    ClientForm clientForm = new ClientForm();
-                //    clientForm.ShowDialog();
-                //}
+                else if (user.Role == "Client")
+                {
+                    ClientMainForm clientForm = new ClientMainForm(user.UserId, user.FullName);
+                    clientForm.ShowDialog();
+                }
 
                 this.Close();
             }
 
 
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -33,11 +33,14 @@
             label2 = new Label();
             txtLogin = new TextBox();
             txtPassword = new TextBox();
+            btnCancel = new Button();
+            label3 = new Label();
+            label4 = new Label();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(144, 351);
+            button1.Location = new Point(28, 196);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
@@ -48,7 +51,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(94, 70);
+            label1.Location = new Point(28, 78);
             label1.Name = "label1";
             label1.Size = new Size(52, 20);
             label1.TabIndex = 1;
@@ -57,7 +60,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(94, 138);
+            label2.Location = new Point(28, 124);
             label2.Name = "label2";
             label2.Size = new Size(62, 20);
             label2.TabIndex = 2;
@@ -65,23 +68,54 @@
             // 
             // txtLogin
             // 
-            txtLogin.Location = new Point(192, 72);
+            txtLogin.Location = new Point(113, 75);
             txtLogin.Name = "txtLogin";
             txtLogin.Size = new Size(125, 27);
             txtLogin.TabIndex = 3;
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(192, 135);
+            txtPassword.Location = new Point(113, 124);
             txtPassword.Name = "txtPassword";
             txtPassword.Size = new Size(125, 27);
             txtPassword.TabIndex = 4;
+            // 
+            // btnCancel
+            // 
+            btnCancel.Location = new Point(144, 196);
+            btnCancel.Name = "btnCancel";
+            btnCancel.Size = new Size(94, 29);
+            btnCancel.TabIndex = 5;
+            btnCancel.Text = "Отмена";
+            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(7, 16);
+            label3.Name = "label3";
+            label3.Size = new Size(73, 20);
+            label3.TabIndex = 6;
+            label3.Text = "СК \"Щит\"";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(144, 16);
+            label4.Name = "label4";
+            label4.Size = new Size(42, 20);
+            label4.TabIndex = 7;
+            label4.Text = "Вход";
             // 
             // LoginForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(259, 235);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(btnCancel);
             Controls.Add(txtPassword);
             Controls.Add(txtLogin);
             Controls.Add(label2);
@@ -100,5 +134,8 @@
         private Label label2;
         private TextBox txtLogin;
         private TextBox txtPassword;
+        private Button btnCancel;
+        private Label label3;
+        private Label label4;
     }
 }

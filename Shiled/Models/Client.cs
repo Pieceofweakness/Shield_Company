@@ -11,7 +11,7 @@ namespace Shiled
         public int ID_Client { get; set; }
         public string FullName { get; set; }
         public string Passport { get; set; }
-        public DateTime? BornDate { get; set; }
+        //public DateTime? BornDate { get; set; }
         public string Phone { get; set; }
         public string Login { get; set; }
         public string Password { get; set; }

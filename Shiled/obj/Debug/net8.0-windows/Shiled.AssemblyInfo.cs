@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shiled")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+641a18b0ed14f70bb3f92295fa31d73c0087178a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca0aedd3d53913cd341ecd7411dff05ae25cafd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shiled")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shiled")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

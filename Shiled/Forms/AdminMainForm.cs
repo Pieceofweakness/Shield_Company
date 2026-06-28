@@ -51,5 +51,13 @@ namespace Shiled.Forms
             this.Close();
 
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            LoginForm lg = new LoginForm();
+            lg.ShowDialog();
+            this.Close();
+        }
     }
 }

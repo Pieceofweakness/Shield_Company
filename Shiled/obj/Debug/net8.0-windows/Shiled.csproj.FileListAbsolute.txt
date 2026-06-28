@@ -31,3 +31,7 @@ D:\Вуз\2 курс\Проектирование инф систем\Shield_Com
 D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.ControlInsurancesTypes.resources
 D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.ShowAllContracts.resources
 D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.ShowContractsByAgent.resources
+D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.VIewApplications.resources
+D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.AddNewApplication.resources
+D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.ClientMainForm.resources
+D:\Вуз\2 курс\Проектирование инф систем\Shield_Company\Shiled\obj\Debug\net8.0-windows\Shiled.Forms.ShowContractsByClient.resources

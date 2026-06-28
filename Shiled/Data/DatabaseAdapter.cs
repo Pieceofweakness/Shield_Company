@@ -433,7 +433,7 @@ namespace Shiled
 
                 sql += " ORDER BY c.ID_Contract DESC";
 
-                return conn.Query<Contract>(sql, new {agentId}).ToList();
+                return conn.Query<Contract>(sql, new {agentId   }).ToList();
             }
         }
 
@@ -443,16 +443,29 @@ namespace Shiled
             {
                 conn.Open();
                 string sql = @"
-                    SELECT c.*, 
-                           i.InsuranceName,
-                           a.FullName as AgentName,
-                           f.NameFilial as FilialName
-                    FROM Contracts c
-                    LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
-                    LEFT JOIN Agents a ON c.ID_Agent = a.ID_Agent
-                    LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
-                    WHERE c.ID_Client = @clientId AND c.IsActive = TRUE
-                    ORDER BY c.ID_Contract DESC";
+            SELECT 
+                c.ID_Contract,
+                c.ID_Client,
+                c.ID_Insurance,
+                c.ID_Filial,
+                c.ID_Agent,
+                c.InsuranceSum,
+                c.Tariff,
+                c.InsurancePayment,
+                c.DateStart::text as DateStart,      
+                c.DateFinal::text as DateFinal,      
+                c.Discription,
+                c.IsActive,
+                i.InsuranceName,
+                a.FullName as AgentName,
+                f.NameFilial as FilialName,
+                f.Phone as phonefilial
+            FROM Contracts c
+            LEFT JOIN Insurance i ON c.ID_Insurance = i.ID_Insurance
+            LEFT JOIN Agents a ON c.ID_Agent = a.ID_Agent
+            LEFT JOIN Filials f ON c.ID_Filial = f.ID_Filial
+            WHERE c.ID_Client = @clientId AND c.IsActive = TRUE
+            ORDER BY c.ID_Contract DESC";
                 return conn.Query<Contract>(sql, new { clientId }).ToList();
             }
         }
@@ -564,13 +577,14 @@ namespace Shiled
                 string sql = @"
                     SELECT a.*, 
                            cl.FullName as ClientName,
+                           cl.Phone as Phone,
                            i.InsuranceName,
                            i.BaseTariff,
                            (a.InsuranceSum * i.BaseTariff / 100) as MonthlyPayment
                     FROM Applications a
                     LEFT JOIN Clients cl ON a.ID_Client = cl.ID_Client
                     LEFT JOIN Insurance i ON a.ID_Insurance = i.ID_Insurance
-                    WHERE a.ID_Filial = @filialId AND a.Status = 'Новая'
+                    WHERE a.ID_Filial = @filialId
                     ORDER BY a.ID_Application DESC";
                 return conn.Query<Aplication>(sql, new { filialId }).ToList();
             }

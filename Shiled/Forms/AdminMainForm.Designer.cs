@@ -86,6 +86,7 @@
             btnExit.TabIndex = 4;
             btnExit.Text = "Выход";
             btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
             // 
             // label1
             // 
